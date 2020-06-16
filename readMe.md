@@ -1,6 +1,6 @@
-DEEP LEARNING - CONVOLUTIONAL NEURAL NETWORKS
+<b> DEEP LEARNING - CONVOLUTIONAL NEURAL NETWORKS </b>
 
-Deeplearning model to recognize the images using CNN
+Deeplearning model to pictures the images of cats and dogs using CNN
 
 <b>INSTALLATION</b>:
 
